@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap');
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image: url("https://www.jaguar.com/content/dam/jdx/global/x761/24my/int/X76124GL_303101393_046.jpg.res/JLRHASH382544D7239E37174B2719B776FD61FCDF2B4FBE/X76124GL_303101393_046.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+nav {
+  padding: 20px;
+  position: fixed;
+  text-align: center;
+  top: 0;
+  left: ;
+  width: 100%;
+  font-family: 'Oxygen', sans-serif;
+  
+}
+
+.logo {
+    float: left;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  text-decoration: underline;
+  text-decoration-color: red;
+}
+
+section {
+  margin-top: 20px;
+}
+
+.hero {
+  background-color: #fff;
+  padding: 20px;
+}
+
+h1 {
+   font-family: 'Oxygen', sans-serif;
+  padding: 0;
+  position: absolute;
+    top: 40%;
+  width:30%;
+  left: 10%;
+color:white ;
+}
+  h2{
+ font-family: 'Oxygen', sans-serif;
+  padding: 0;
+  position: absolute;
+    top: 65%;
+    left: 10%;
+    background-color:white; 
+
+  left: 10%;
+}
+
+p {
+  margin-bottom: 10px;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
