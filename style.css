@@ -3,7 +3,7 @@ body {
   font-family: sans-serif;
   margin: 0;
   padding: 0;
-  background-image: url("https://www.jaguar.com/content/dam/jdx/global/x761/24my/int/X76124GL_303101393_046.jpg.res/JLRHASH382544D7239E37174B2719B776FD61FCDF2B4FBE/X76124GL_303101393_046.jpg");
+  background-image:url(mainimage.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
